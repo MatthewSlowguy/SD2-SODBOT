@@ -34,7 +34,14 @@ const alliesDivs = {
   "11111111": "1st Polish Infantry",
   "101100101": "358 Strelkovy",
   "101100000": "126th Strelki",
-  "101011111": "Gruppa Vyborg"
+  "101011111": "Gruppa Vyborg",
+  "110101111": "97th Guards",
+  "110110100": "3rd VDV",
+  "110110101": "7th Mech Corps",
+  "110110110": "MGB",
+  "100001000": "1st Pancerna",
+  "1001110011": "6th Airborne",
+  "1001110100": "2nd US Infantry"
 };
 
 const axisDivs = {
@@ -57,7 +64,14 @@ const axisDivs = {
   "100000111": "Fallschrim Panzer H G",
   "101100100": "122 Infantry",
   "101011110": "Panssaridivisioona",
-  "101100010": "Ryhma Raapppana"
+  "101100010": "Ryhma Raapppana",
+  "110101110": "16th Panzer",
+  "110110001": "1st Blindata",
+  "110110010": "4th Munte",
+  "110110011": "5th Cavalerie",
+  "1001101111": "12th SS",
+  "1001110000": "17th SS",
+  "1001110010": "3rd FSJ"
 };
 
 const incomeLevel = {
